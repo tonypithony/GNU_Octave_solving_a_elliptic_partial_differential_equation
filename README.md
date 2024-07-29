@@ -1,3 +1,5 @@
+### нужно запускать в каталоге = текущей папке, выбранной в программе Octave
+
 ![](https://raw.githubusercontent.com/tonypithony/GNU_Octave_solving_a_elliptic_partial_differential_equation/main/photo_2024-07-29_12-37-23.jpg)
 
 ![](https://raw.githubusercontent.com/tonypithony/GNU_Octave_solving_a_elliptic_partial_differential_equation/main/1.PNG)
